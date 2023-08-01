@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanrehmani126&label=Profile%20views&color=0e75b6&style=flat" alt="usmanrehmani126" /> </p>
 
 
-- 🔭 I’m currently working on React  Native and Laravel 
+- 🔭 I’m currently working on React  Native and MERN Stack 
 
 - 👨‍💻 All of my projects are available at [https://usmandotdev.netlify.app/](https://usmandotdev.netlify.app/)
 
