@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **usmanrehmani126@gmail.com**
 
-- ⚡ Fun fact **THE 10K**
+- ⚡ Fun fact **AM Single😏😃❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
