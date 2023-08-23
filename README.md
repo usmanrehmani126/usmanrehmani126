@@ -9,15 +9,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanrehmani126&label=Profile%20views&color=0e75b6&style=flat" alt="usmanrehmani126" /> </p>
 
 
-- 🔭 I’m currently working on React  Native and MERN Stack 
+- 🔭 I’m currently working on React  Native and Node JS. 
 
 - 👨‍💻 All of my projects are available at [https://usmandotdev.netlify.app/](https://usmandotdev.netlify.app/)
 
-- 💬 Ask me about **React and React Native**
+- 💬 Ask me about **React JS and React Native**
 
 - 📫 How to reach me **usmanrehmani126@gmail.com**
 
-- ⚡ Fun fact **AM Single😏😃❤**
+- ⚡ Fun fact ** Developers are always single ❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
