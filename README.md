@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="50" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> 
 </h1>
 
-<h3 align="center">A passionate React JS & React Native developer from Pakistan</h3>
+<h3 align="center">A passionate React JS,Node JS & React Native developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanrehmani126&label=Profile%20views&color=0e75b6&style=flat" alt="usmanrehmani126" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://usmandotdev.netlify.app/](https://usmandotdev.netlify.app/)
 
-- 💬 Ask me about **React JS and React Native**
+- 💬 Ask me about **React JS,Node JS and React Native**
 
 - 📫 How to reach me **usmanrehmani126@gmail.com**
 
